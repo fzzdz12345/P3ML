@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/fzz/SSTNN/lib_eigen/test/qr_fullpivoting.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "qr_fullpivoting_6"
+	}
+}
