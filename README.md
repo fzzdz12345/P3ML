@@ -19,7 +19,7 @@
 
 #### Building the code
 
-To build Falcon, run the following commands:
+To build P3ML, run the following commands:
 
 ```
 git clone 
