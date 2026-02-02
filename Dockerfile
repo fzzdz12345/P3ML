@@ -8,9 +8,4 @@ RUN apt-get update \
         libssl-dev \
     && rm -r /var/lib/apt/lists/*
 
-RUN git clone https://github.com/snwagh/falcon-public.git Falcon
 
-RUN cd Falcon \
-    && make all -j$(nproc)
-
-WORKDIR Falcon
